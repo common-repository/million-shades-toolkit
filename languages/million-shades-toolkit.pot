@@ -1,0 +1,574 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Million Shades Toolkit\n"
+"POT-Creation-Date: 2022-02-08 20:32+0600\n"
+"PO-Revision-Date: 2019-05-31 21:32+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ms-toolkit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/client.php:32
+msgid "Clients"
+msgstr ""
+
+#: inc/client.php:33
+msgid "client"
+msgstr ""
+
+#: inc/client.php:34 inc/portfolio.php:31 inc/staff.php:30
+#: inc/testimonials.php:31
+msgid "Add New"
+msgstr ""
+
+#: inc/client.php:35
+msgid "Add New client"
+msgstr ""
+
+#: inc/client.php:36 inc/portfolio.php:33 inc/staff.php:32
+#: inc/testimonials.php:33
+msgid "Edit"
+msgstr ""
+
+#: inc/client.php:37
+msgid "Edit client"
+msgstr ""
+
+#: inc/client.php:38
+msgid "New client"
+msgstr ""
+
+#: inc/client.php:39 inc/portfolio.php:36 inc/staff.php:35
+#: inc/testimonials.php:36
+msgid "View"
+msgstr ""
+
+#: inc/client.php:40
+msgid "View client"
+msgstr ""
+
+#: inc/client.php:41
+msgid "Search clients"
+msgstr ""
+
+#: inc/client.php:42
+msgid "No clients found"
+msgstr ""
+
+#: inc/client.php:43
+msgid "No clients found in Trash"
+msgstr ""
+
+#: inc/client.php:44
+msgid "Parent client"
+msgstr ""
+
+#: inc/client.php:57 inc/client.php:67
+msgid "Client Categories"
+msgstr ""
+
+#: inc/client.php:58
+msgid "Client Category"
+msgstr ""
+
+#: inc/client.php:59
+msgid "Search Client Categories"
+msgstr ""
+
+#: inc/client.php:60
+msgid "All Client Categories"
+msgstr ""
+
+#: inc/client.php:61
+msgid "Parent Client Category"
+msgstr ""
+
+#: inc/client.php:62
+msgid "Parent Client Category:"
+msgstr ""
+
+#: inc/client.php:63
+msgid "Edit Client Category"
+msgstr ""
+
+#: inc/client.php:64
+msgid "Update Client Category"
+msgstr ""
+
+#: inc/client.php:65
+msgid "Add New Client Category"
+msgstr ""
+
+#: inc/client.php:66
+msgid "New Client Category Name"
+msgstr ""
+
+#: inc/client.php:100
+msgid "Client Url:(Leave it blank)"
+msgstr ""
+
+#: inc/portfolio.php:29
+msgid "Portfolios"
+msgstr ""
+
+#: inc/portfolio.php:30
+msgid "portfolio"
+msgstr ""
+
+#: inc/portfolio.php:32
+msgid "Add New portfolio"
+msgstr ""
+
+#: inc/portfolio.php:34
+msgid "Edit portfolio"
+msgstr ""
+
+#: inc/portfolio.php:35
+msgid "New portfolio"
+msgstr ""
+
+#: inc/portfolio.php:37
+msgid "View portfolio"
+msgstr ""
+
+#: inc/portfolio.php:38
+msgid "Search portfolios"
+msgstr ""
+
+#: inc/portfolio.php:39
+msgid "No portfolios found"
+msgstr ""
+
+#: inc/portfolio.php:40
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: inc/portfolio.php:41
+msgid "Parent portfolio"
+msgstr ""
+
+#: inc/portfolio.php:58 inc/portfolio.php:68
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:59
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:60
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:61
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:62
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:63
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: inc/portfolio.php:64
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:65
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:66
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:67
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: inc/portfolio.php:102
+msgid "Portfolio Url:(Leave it blank)"
+msgstr ""
+
+#: inc/staff.php:28
+msgid "Staffs"
+msgstr ""
+
+#: inc/staff.php:29
+msgid "staff"
+msgstr ""
+
+#: inc/staff.php:31
+msgid "Add New staff"
+msgstr ""
+
+#: inc/staff.php:33
+msgid "Edit staff"
+msgstr ""
+
+#: inc/staff.php:34
+msgid "New staff"
+msgstr ""
+
+#: inc/staff.php:36
+msgid "View staff"
+msgstr ""
+
+#: inc/staff.php:37
+msgid "Search staffs"
+msgstr ""
+
+#: inc/staff.php:38
+msgid "No staffs found"
+msgstr ""
+
+#: inc/staff.php:39
+msgid "No staffs found in Trash"
+msgstr ""
+
+#: inc/staff.php:40
+msgid "Parent staff"
+msgstr ""
+
+#: inc/staff.php:53 inc/staff.php:63
+msgid "Staff Categories"
+msgstr ""
+
+#: inc/staff.php:54
+msgid "Staff Category"
+msgstr ""
+
+#: inc/staff.php:55
+msgid "Search Staff Categories"
+msgstr ""
+
+#: inc/staff.php:56
+msgid "All Staff Categories"
+msgstr ""
+
+#: inc/staff.php:57
+msgid "Parent Staff Category"
+msgstr ""
+
+#: inc/staff.php:58
+msgid "Parent Staff Category:"
+msgstr ""
+
+#: inc/staff.php:59
+msgid "Edit Staff Category"
+msgstr ""
+
+#: inc/staff.php:60
+msgid "Update Staff Category"
+msgstr ""
+
+#: inc/staff.php:61
+msgid "Add New Staff Category"
+msgstr ""
+
+#: inc/staff.php:62
+msgid "New Staff Category Name"
+msgstr ""
+
+#: inc/staff.php:89 inc/staff.php:98
+msgid "none"
+msgstr ""
+
+#: inc/staff.php:90
+msgid "behance"
+msgstr ""
+
+#: inc/staff.php:90
+msgid "codepen"
+msgstr ""
+
+#: inc/staff.php:90
+msgid "deviantart"
+msgstr ""
+
+#: inc/staff.php:90
+msgid "digg"
+msgstr ""
+
+#: inc/staff.php:91
+msgid "dribbble"
+msgstr ""
+
+#: inc/staff.php:91
+msgid "dropbox"
+msgstr ""
+
+#: inc/staff.php:91
+msgid "facebook"
+msgstr ""
+
+#: inc/staff.php:91
+msgid "flickr"
+msgstr ""
+
+#: inc/staff.php:92
+msgid "foursquare"
+msgstr ""
+
+#: inc/staff.php:92
+msgid "google-plus"
+msgstr ""
+
+#: inc/staff.php:92
+msgid "github"
+msgstr ""
+
+#: inc/staff.php:92
+msgid "instagram"
+msgstr ""
+
+#: inc/staff.php:93
+msgid "linkedin"
+msgstr ""
+
+#: inc/staff.php:93
+msgid "envelope-o"
+msgstr ""
+
+#: inc/staff.php:93
+msgid "medium"
+msgstr ""
+
+#: inc/staff.php:93
+msgid "pinterest-p"
+msgstr ""
+
+#: inc/staff.php:94
+msgid "get-pocket"
+msgstr ""
+
+#: inc/staff.php:94
+msgid "reddit-alien"
+msgstr ""
+
+#: inc/staff.php:94 inc/staff.php:95
+msgid "skype"
+msgstr ""
+
+#: inc/staff.php:95
+msgid "slideshare"
+msgstr ""
+
+#: inc/staff.php:95
+msgid "snapchat-ghost"
+msgstr ""
+
+#: inc/staff.php:95
+msgid "soundcloud"
+msgstr ""
+
+#: inc/staff.php:96
+msgid "spotify"
+msgstr ""
+
+#: inc/staff.php:96
+msgid "stumbleupon"
+msgstr ""
+
+#: inc/staff.php:96
+msgid "tumblr"
+msgstr ""
+
+#: inc/staff.php:96
+msgid "twitch"
+msgstr ""
+
+#: inc/staff.php:96
+msgid "twitter"
+msgstr ""
+
+#: inc/staff.php:96
+msgid "vimeo"
+msgstr ""
+
+#: inc/staff.php:96
+msgid "vine"
+msgstr ""
+
+#: inc/staff.php:97
+msgid "vk"
+msgstr ""
+
+#: inc/staff.php:97
+msgid "wordpress"
+msgstr ""
+
+#: inc/staff.php:97
+msgid "yelp"
+msgstr ""
+
+#: inc/staff.php:98
+msgid "youtube"
+msgstr ""
+
+#: inc/staff.php:107
+msgid "Staff Designation:"
+msgstr ""
+
+#: inc/staff.php:123
+msgid "Staff Social Icon #1:"
+msgstr ""
+
+#: inc/staff.php:139
+msgid "Staff Social Url #1:"
+msgstr ""
+
+#: inc/staff.php:145
+msgid "Staff Social Icon #2:"
+msgstr ""
+
+#: inc/staff.php:161
+msgid "Staff Social Url #2:"
+msgstr ""
+
+#: inc/staff.php:167
+msgid "Staff Social Icon #3:"
+msgstr ""
+
+#: inc/staff.php:183
+msgid "Staff Social Url #3:"
+msgstr ""
+
+#: inc/staff.php:189
+msgid "Staff Social Icon #4:"
+msgstr ""
+
+#: inc/staff.php:205
+msgid "Staff Social Url #4:"
+msgstr ""
+
+#: inc/testimonials.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: inc/testimonials.php:30
+msgid "Testimonial"
+msgstr ""
+
+#: inc/testimonials.php:32
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/testimonials.php:34
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/testimonials.php:35
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/testimonials.php:37
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/testimonials.php:38
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/testimonials.php:39
+msgid "No Testimonials found"
+msgstr ""
+
+#: inc/testimonials.php:40
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: inc/testimonials.php:41
+msgid "Parent Testimonial"
+msgstr ""
+
+#: inc/testimonials.php:57 inc/testimonials.php:67
+msgid "Testimonial Categories"
+msgstr ""
+
+#: inc/testimonials.php:58
+msgid "Testimonial Category"
+msgstr ""
+
+#: inc/testimonials.php:59
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: inc/testimonials.php:60
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: inc/testimonials.php:61
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: inc/testimonials.php:62
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: inc/testimonials.php:63
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: inc/testimonials.php:64
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: inc/testimonials.php:65
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: inc/testimonials.php:66
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: inc/testimonials.php:97
+msgid "Company Name:"
+msgstr ""
+
+#: inc/testimonials.php:101
+msgid "Company Url:"
+msgstr ""
+
+#: ms-toolkit.php:81
+msgid ""
+"<strong>Million Shades Toolkit</strong> plugin should be used for the <a "
+"href=\"http://wordpress.org/themes/million-shades/\" target=\"_blank"
+"\">Million Shades theme only</a></p>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Million Shades Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://themenextlevel.com/million/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin registers custom post types(client,portfolio,staff,"
+"testimonials) to the Million Shades theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kudrat E Khuda"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themenextlevel.com"
+msgstr ""
